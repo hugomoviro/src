@@ -1,0 +1,22 @@
+# Archivos y directorios específicos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Carpeta de entorno virtual (si estás usando virtualenv)
+venv/
+env/
+
+# Archivos de configuración de IDEs y editores comunes
+.idea/
+.vscode/
+
+# Archivos de configuración de sistema
+.DS_Store
+Thumbs.db
+
+# Logs y archivos temporales
+logs/
+*.log
+*.swp
